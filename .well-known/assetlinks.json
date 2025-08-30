@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "com.esar.my_trip",
+    "package_name": "com.esar.my_trip",
+    "sha256_cert_fingerprints":
+    ["29:87:65:00:D5:2F:F6:C2:0E:50:E8:FD:E1:56:DF:F9:21:C7:7F:CE:41:CC:C6:C4:A0:75:4E:C6:6F:8A:07:7"]
+  }
+}]
